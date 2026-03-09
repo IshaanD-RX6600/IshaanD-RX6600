@@ -81,12 +81,4 @@ AI • Machine Learning • LLMs • Full-Stack Development • Hackathons
 
 ---
 
-# 📊 GitHub Stats
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=IshaanD-RX6600\&show_icons=true\&theme=tokyonight)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IshaanD-RX6600\&layout=compact\&theme=tokyonight)
-
----
-
 ⭐ Always building something new.
