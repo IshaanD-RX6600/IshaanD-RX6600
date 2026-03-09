@@ -1,16 +1,92 @@
-## Hi there 👋
+# Hi, I'm Ishaan 👋
 
-<!--
-**IshaanD-RX6600/IshaanD-RX6600** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Developer | 🤖 AI Builder | ⚡ Hackathon Enthusiast
 
-Here are some ideas to get you started:
+I'm a high school developer passionate about building **AI tools, full-stack applications, and experimental projects**.
+I enjoy exploring **LLMs, machine learning, and real-world software problems.**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+# 🚀 Featured Projects
+
+### 🧠 Waypoint
+
+Built in **36 hours at Hack Canada 2026 (Finalist)**.
+
+* AI-powered case memory assistant for social workers
+* Helps manage case documentation and summarize information
+* Built using TypeScript
+
+---
+
+### 🍽 SharingSurplus
+
+**Top 3 at NeoDev Developer League (cash prize winner)**
+
+* Platform to redistribute excess resources to those in need
+* Built with TypeScript
+
+---
+
+### 🧾 FormFlux
+
+Built at **SpurHacks hackathon**
+
+* Automation tool for managing and processing forms
+* Full-stack TypeScript project
+
+---
+
+### 🎮 Serenity Valley
+
+A **Python pygame game** I built.
+
+---
+
+### 🤖 Face Swap
+
+AI project that swaps faces in videos using **just one image**.
+
+---
+
+### ✍️ Handwritten to Text
+
+Machine learning project that converts handwritten text into digital text.
+
+---
+
+# 🏆 Hackathons
+
+* 🚀 **Hack Canada 2026 — Finalist**
+* 🏆 **NeoDev Developer League — Top 3**
+* ⚡ **SpurHacks**
+* 💻 **Ignition Hacks**
+* 🌍 **HawkHacks**
+
+---
+
+# 🛠 Technologies I Use
+
+### Languages
+
+Python • TypeScript • JavaScript • Java • C++ • HTML/CSS
+
+### Frameworks / Tools
+
+React • Next.js • Node.js • TailwindCSS • TensorFlow
+
+### Interests
+
+AI • Machine Learning • LLMs • Full-Stack Development • Hackathons
+
+---
+
+# 📊 GitHub Stats
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=IshaanD-RX6600\&show_icons=true\&theme=tokyonight)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IshaanD-RX6600\&layout=compact\&theme=tokyonight)
+
+---
+
+⭐ Always building something new.
