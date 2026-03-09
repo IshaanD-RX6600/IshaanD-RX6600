@@ -23,7 +23,7 @@ Built in **36 hours at Hack Canada 2026 (Finalist)**.
 
 **Top 3 at NeoDev Developer League (cash prize winner)**
 
-* Platform to redistribute excess resources to those in need
+* Platform to redistribute excess resources to those in need. And aid food banks.
 * Built with TypeScript
 
 ---
@@ -32,7 +32,7 @@ Built in **36 hours at Hack Canada 2026 (Finalist)**.
 
 Built at **SpurHacks hackathon**
 
-* Automation tool for managing and processing forms
+* Automation tool for managing workout form.
 * Full-stack TypeScript project
 
 ---
